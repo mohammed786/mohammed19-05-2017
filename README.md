@@ -29,4 +29,4 @@ $ pip install -r requirements.txt
 ```
 $ python server.py
 ```
-* Navigate to **http:\\localhost:5000 your app will start
+* Navigate to **http://localhost:5000** your app will start
